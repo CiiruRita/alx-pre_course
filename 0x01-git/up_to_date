@@ -1,0 +1,4 @@
+Run git status. Git will tell you the repository is clean.
+Run git fetch.This will show chages done.
+Run git status again. Git will say your branch is one commit behind.
+Run git pull to update your local branch.
